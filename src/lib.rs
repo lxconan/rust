@@ -1,0 +1,11 @@
+mod common_concept_variable;
+mod common_concept_integer;
+mod common_concept_floating;
+mod common_concept_boolean;
+mod common_concept_character;
+mod common_concept_compund;
+mod common_concept_function;
+mod common_concept_control_flow;
+mod ownership;
+mod slice;
+mod structs;
