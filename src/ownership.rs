@@ -12,7 +12,7 @@ mod test {
     let length = will_not_take_ownership(&original);
 
     assert_eq!("Hello", original.as_str());
-    assert_eq!(6, length);
+    assert_eq!(5, length);
   }
 
   fn modify_mutable_reference(string:&mut String) {
