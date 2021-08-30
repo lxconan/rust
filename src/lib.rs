@@ -9,3 +9,4 @@ mod common_concept_control_flow;
 mod ownership;
 mod slice;
 mod structs;
+mod enums;
